@@ -1,5 +1,0 @@
-plugins:
-  custom_user_creation_enabled:
-    default: true
-    description: "Enable custom user creation with backdating functionality"
-    category: "custom_user_creation" 
